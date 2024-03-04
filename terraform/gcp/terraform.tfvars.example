@@ -1,0 +1,7 @@
+zone = "us-central1-a"
+
+region  = "us-central1"
+
+project  = "erad"
+
+key_ssh = "~/.ssh/id_rsa.pub"
